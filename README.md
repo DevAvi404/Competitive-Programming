@@ -1,6 +1,12 @@
-# 🚀 Codeforces Solutions
-
 <div align="center">
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Codeforces%20Solutions&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Competitive+Programming+Journey;C%2B%2B+Problem+Solving;Codeforces+Practice;Always+Learning+Algorithms" />
+
+<br/>
 
 ![Codeforces](https://img.shields.io/badge/Codeforces-Solutions-blue?style=for-the-badge&logo=codeforces)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
@@ -11,28 +17,28 @@
 
 ---
 
-## 📌 About
-
-This repository contains my solutions to various problems from  
-[Codeforces](https://codeforces.com/).
-
-I use this repository to:
-- Practice problem solving
-- Improve algorithmic thinking
-- Prepare for programming contests
-- Track my coding journey
-
----
-
-## 👨‍💻 Coder
+## 👨‍💻 About Me
 
 - **Name:** Avishek Paul
-- **Codeforces Profile:** https://codeforces.com/profile/YOUR_HANDLE
-- **Language Used:** C++
+- **Role:** Competitive Programmer
+- **Language:** C++
+- **Codeforces Profile:** [YOUR_HANDLE](https://codeforces.com/profile/YOUR_HANDLE)
 
 ---
 
-# 📂 Repository Structure
+## 📌 About This Repository
+
+This repository contains my solutions to various problems from [Codeforces](https://codeforces.com/).
+
+I use it to:
+- 🧩 Improve problem-solving skills
+- 📚 Practice algorithms & data structures
+- 📈 Track my competitive programming journey
+- 🏆 Prepare for contests
+
+---
+
+## 📂 Repository Structure
 
 ```text
 Codeforces-Solutions/
@@ -64,22 +70,20 @@ Codeforces-Solutions/
 
 ---
 
-# 🧠 Topics Covered
+## 🧠 Topics Covered
 
-- Implementation
-- Greedy
-- Binary Search
-- Mathematics
-- Strings
-- Graph Theory
-- Dynamic Programming
-- STL
-- Number Theory
-- Brute Force
+| Category | Topics |
+|----------|--------|
+| Basics | Implementation, Brute Force, STL |
+| Math | Mathematics, Number Theory |
+| Algorithms | Greedy, Binary Search, Sorting |
+| Data Structures | Arrays, Maps, Sets |
+| Advanced | Graph Theory, Dynamic Programming |
+| Strings | String Manipulation, Pattern Matching |
 
 ---
 
-# 📊 Problem Statistics
+## 📊 Problem Statistics
 
 | Rating | Solved |
 |--------|--------|
@@ -94,7 +98,21 @@ Codeforces-Solutions/
 
 ---
 
-# ⚡ Template Used
+## 📝 File Naming Convention
+
+```text
+ProblemLetter_ProblemName.cpp
+```
+
+**Examples:**
+```text
+A_Word.cpp
+B_Queue_at_the_School.cpp
+```
+
+---
+
+## ⚡ Template Used
 
 ```cpp
 #include<bits/stdc++.h>
@@ -112,118 +130,18 @@ int main()
 
 ---
 
-# 📝 File Naming Convention
+## 🛠️ Tools & Technologies
 
-```text
-A_Word.cpp
-B_Queue_at_the_School.cpp
-```
-
-Format:
-```text
-ProblemLetter_ProblemName.cpp
-```
-
----
-
-# 🛠️ Tools & Technologies
-
-- C++
-- GNU G++
-- VS Code
-- Git & GitHub
-
----
-
-# 📈 Goals
-
-- Solve problems consistently
-- Improve Codeforces rating
-- Learn advanced algorithms
-- Participate in contests regularly
-
----
-
-# 🌟 Future Plans
-
-- Add detailed explanations
-- Add time complexity analysis
-- Add contest editorials
-- Add topic-wise filtering
-- Automate statistics updates
-
----
-
-# 🤝 Contributions
-
-This repository is mainly for personal learning and practice.  
-However, suggestions and improvements are always welcome.
-
----
-
-# ⭐ Support
-
-If you like this repository, consider giving it a ⭐ on GitHub.
-
----
-
-<div align="center">
-
-### Happy Coding 🚀
-
-</div>
-
-
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Codeforces%20Solutions&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Competitive+Programming+Journey;C%2B%2B+Problem+Solving;Codeforces+Practice;Always+Learning+Algorithms" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-- Name: Avishek Paul  
-- Role: Coder  
-- Focus: Competitive Programming (C++)
-
----
-
-## 🚀 About This Repository
-This repository contains my solutions to problems from  
-:contentReference[oaicite:0]{index=0}.
-
-I use it to:
-- Improve problem-solving skills
-- Practice algorithms & data structures
-- Track my progress
-- Prepare for contests
-
----
-
-## 📂 Folder Structure
-```text
-800/
-900/
-1000/
-1100/
-1200/
-Templates/
-```
-
----
-
-## ⚡ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
+
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
@@ -235,21 +153,38 @@ Templates/
 ---
 
 ## 🎯 Goals
-- Solve daily problems  
-- Increase Codeforces rating  
-- Learn advanced algorithms  
-- Participate in contests regularly  
+
+- [ ] Solve problems consistently every day
+- [ ] Increase Codeforces rating
+- [ ] Learn advanced algorithms
+- [ ] Participate in contests regularly
+- [ ] Add detailed explanations & editorials
+- [ ] Add time complexity analysis
+- [ ] Automate statistics updates
 
 ---
 
-## 🔗 Profile
-Codeforces: https://codeforces.com/profile/YOUR_HANDLE
+## 🤝 Contributions
+
+This repository is mainly for personal learning and practice.  
+However, suggestions and improvements are always welcome!
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐ on GitHub!
 
 ---
 
 <div align="center">
 
-### 🚀 Happy Coding
+### 🚀 Happy Coding!
+
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
 </div>
