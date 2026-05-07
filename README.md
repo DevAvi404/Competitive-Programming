@@ -144,9 +144,9 @@ int main()
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAvi404&show_icons=true&theme=tokyonight)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAvi404&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/DevAvi404)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAvi404&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAvi404&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/DevAvi404)
 
 </div>
 
