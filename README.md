@@ -22,7 +22,7 @@
 - **Name:** Avishek Paul
 - **Role:** Competitive Programmer
 - **Language:** C++
-- **Codeforces Profile:** https://codeforces.com/profile/_Avi_Paul_
+- **Codeforces Profile:** [_Avi_Paul_](https://codeforces.com/profile/_Avi_Paul_)
 
 ---
 
