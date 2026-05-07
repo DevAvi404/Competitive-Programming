@@ -146,7 +146,7 @@ int main()
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevAvi404&theme=tokyonight&hide_border=false)](https://github.com/DevAvi404)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAvi404&layout=compact&theme=tokyonight)](https://github.com/DevAvi404)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevAvi404&theme=tokyonight)](https://github.com/DevAvi404)
 
 </div>
 
