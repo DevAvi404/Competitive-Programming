@@ -172,3 +172,35 @@ If you like this repository, consider giving it a ⭐ on GitHub.
 ### Happy Coding 🚀
 
 </div>
+
+
+
+<!-- PROFILE & REPOSITORY BADGES -->
+
+![Codeforces](https://img.shields.io/badge/Codeforces-Solutions-blue?style=for-the-badge&logo=codeforces)
+
+![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![Platform](https://img.shields.io/badge/Platform-Codeforces-orange?style=for-the-badge)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/Codeforces-Solutions?style=for-the-badge)
+
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/Codeforces-Solutions?style=for-the-badge)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/Codeforces-Solutions?style=for-the-badge)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/Codeforces-Solutions?style=for-the-badge)
+
+![GitHub language count](https://img.shields.io/github/languages/count/YOUR_USERNAME/Codeforces-Solutions?style=for-the-badge)
+
+![GitHub top language](https://img.shields.io/github/languages/top/YOUR_USERNAME/Codeforces-Solutions?style=for-the-badge)
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&repo=Codeforces-Solutions&style=for-the-badge)
+
+![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/Codeforces-Solutions?style=for-the-badge)
+
+![License](https://img.shields.io/github/license/YOUR_USERNAME/Codeforces-Solutions?style=for-the-badge)
+
+![Code Size](https://img.shields.io/github/languages/code-size/YOUR_USERNAME/Codeforces-Solutions?style=for-the-badge)
+
+![Commit Activity](https://img.shields.io/github/commit-activity/m/YOUR_USERNAME/Codeforces-Solutions?style=for-the-badge)
