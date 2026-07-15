@@ -129,19 +129,30 @@ C_Make_Sum_Equal.cpp
 All solutions use this optimized C++ template:
 
 ```cpp
-#include<bits/stdc++.h>
+/**
+ *    author:  Avishek Paul
+ *    created: DD.MM.YYYY
+**/
+
+#include <bits/stdc++.h>
 using namespace std;
+#define optimize() ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
+#define endl '\n'
+#define int long long
 
-#define fast ios::sync_with_stdio(false); cin.tie(nullptr);
-
-int main()
-{
-    fast;
+void solve_code() {
     
     // Solution code here
     
+}
+
+int32_t main() {
+    optimize();
+    int t = 1; cin >> t;
+    while(t--) solve_code();
     return 0;
 }
+
 ```
 
 ---
