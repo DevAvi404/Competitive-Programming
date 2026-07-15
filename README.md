@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Codeforces%20Solutions&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Codeforces%20Solutions&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="header" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Competitive+Programming+Journey;C%2B%2B+Problem+Solving;Codeforces+Practice;Always+Learning+Algorithms" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Competitive+Programming+Journey;C%2B%2B+Problem+Solving;Codeforces+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
@@ -38,23 +38,32 @@ I use it to:
 
 ---
 
+## 🚀 Quick Navigation
+
+- 📁 [Browse by Difficulty](#repository-structure)
+- 🎯 [Topic-wise Solutions](#topics-covered)
+- 📊 [Progress Tracker](#problem-statistics)
+- 📝 [File Convention](#file-naming-convention)
+
+---
+
 ## 📂 Repository Structure
 
 ```text
-Codeforces-Solutions/
+Competitive-Programming/
 │
-├── 800/
-├── 900/
-├── 1000/
-├── 1100/
-├── 1200/
-├── 1300/
-├── 1400/
-├── 1500/
+├── 800/                 # Beginner level problems
+├── 900/                 # Easy problems
+├── 1000/                # Easy-Medium problems
+├── 1100/                # Medium problems
+├── 1200/                # Medium-Hard problems
+├── 1300/                # Hard problems
+├── 1400/                # Very Hard problems
+├── 1500/                # Expert level problems
 │
-├── Contests/
+├── Contests/            # Contest-wise solutions
 │
-├── Topicwise/
+├── Topicwise/           # Solutions organized by topic
 │   ├── Greedy/
 │   ├── Binary_Search/
 │   ├── Math/
@@ -63,9 +72,9 @@ Codeforces-Solutions/
 │   ├── String/
 │   └── Implementation/
 │
-├── Templates/
+├── Templates/           # C++ templates & snippets
 │
-└── Notes/
+└── Notes/               # Algorithm notes & editorials
 ```
 
 ---
@@ -75,30 +84,32 @@ Codeforces-Solutions/
 | Category | Topics |
 |----------|--------|
 | Basics | Implementation, Brute Force, STL |
-| Math | Mathematics, Number Theory |
-| Algorithms | Greedy, Binary Search, Sorting |
-| Data Structures | Arrays, Maps, Sets |
-| Advanced | Graph Theory, Dynamic Programming |
-| Strings | String Manipulation, Pattern Matching |
+| Math | Mathematics, Number Theory, Modular Arithmetic |
+| Algorithms | Greedy, Binary Search, Sorting, Two Pointers |
+| Data Structures | Arrays, Maps, Sets, Stacks, Queues |
+| Advanced | Graph Theory, Dynamic Programming, Segment Trees |
+| Strings | String Manipulation, Pattern Matching, Hashing |
 
 ---
 
 ## 📊 Problem Statistics
 
-| Rating | Solved |
-|--------|--------|
-| 800    | 0 |
-| 900    | 0 |
-| 1000   | 0 |
-| 1100   | 0 |
-| 1200   | 0 |
-| 1300+  | 0 |
+| Rating | Solved | Status |
+|--------|--------|--------|
+| 800    | -      | 🔄 In Progress |
+| 900    | -      | 🔄 In Progress |
+| 1000   | -      | 🔄 In Progress |
+| 1100   | -      | 🔄 In Progress |
+| 1200   | -      | 🔄 In Progress |
+| 1300+  | -      | 🔄 In Progress |
 
-> Statistics will be updated regularly.
+> 💡 **Tip:** Statistics will be updated as solutions are added. Check back regularly!
 
 ---
 
 ## 📝 File Naming Convention
+
+Solutions follow a consistent naming pattern for easy navigation:
 
 ```text
 ProblemLetter_ProblemName.cpp
@@ -108,11 +119,14 @@ ProblemLetter_ProblemName.cpp
 ```text
 A_Word.cpp
 B_Queue_at_the_School.cpp
+C_Make_Sum_Equal.cpp
 ```
 
 ---
 
-## ⚡ Template Used
+## ⚡ Standard Template Used
+
+All solutions use this optimized C++ template:
 
 ```cpp
 #include<bits/stdc++.h>
@@ -123,7 +137,9 @@ using namespace std;
 int main()
 {
     fast;
-
+    
+    // Solution code here
+    
     return 0;
 }
 ```
@@ -137,6 +153,7 @@ int main()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -152,22 +169,44 @@ int main()
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals & Milestones
 
 - [ ] Solve problems consistently every day
-- [ ] Increase Codeforces rating
-- [ ] Learn advanced algorithms
-- [ ] Participate in contests regularly
+- [ ] Reach Codeforces rating 1400+
+- [ ] Learn & implement advanced algorithms
+- [ ] Participate in 10+ contests regularly
 - [ ] Add detailed explanations & editorials
-- [ ] Add time complexity analysis
+- [ ] Add time complexity analysis for all solutions
 - [ ] Automate statistics updates
 
 ---
 
-## 🤝 Contributions
+## 💡 How to Use This Repository
 
-This repository is mainly for personal learning and practice.  
-However, suggestions and improvements are always welcome!
+1. **Browse by Difficulty:** Start from lower-rated problems (800-1000) and progress gradually
+2. **Topic-wise Learning:** Use the `Topicwise/` folder to master specific algorithms
+3. **Study the Code:** Each solution focuses on clarity and efficiency
+4. **Practice:** Try solving problems before looking at solutions!
+
+---
+
+## 🤝 Contributing
+
+This repository is primarily for personal learning and practice.
+
+**However:**
+- 💬 Suggestions and improvements are always welcome!
+- 🐛 Found a bug? Feel free to report it
+- 💡 Have a better approach? Let me know!
+
+---
+
+## 📚 Resources & References
+
+- [Codeforces](https://codeforces.com/) - Main competitive programming platform
+- [CP-Algorithms](https://cp-algorithms.com/) - Algorithm reference
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) - DSA tutorials
+- [Competitive Programming by Halim & Halim](https://cpbook.net/) - Essential book
 
 ---
 
@@ -185,6 +224,6 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" />
 
 </div>
